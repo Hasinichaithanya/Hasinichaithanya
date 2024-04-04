@@ -1,10 +1,10 @@
 <h3 align="left">Hi there 👋 I am Chaithanya Hasini Doopati<br><br> Welcome !!</h3>
 <h4>- A CSE student at Kakatiya University <br>- EX-intern at Kaaspro Enterprises<br>-  Passionate Full Stack Developer<br>- Teaching assistant @NxtWave<br>- Loves to code</h4>
-###
 
 
 
-###
+
+
 <h2> Mostly worked with:</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
