@@ -1,5 +1,5 @@
 <h3 align="left">Hi there 👋 I am Chaithanya Hasini Doopati<br><br> Welcome !!</h3>
-<h4>- A CSE student at Kakatiya University <br>- EX-intern at Kaaspro Enterprises<br>-  Passionate Full Stack Developer<br>- Teaching assistant @NxtWave<br>- Loves to code</h4>
+<h4>- A CSE student at Kakatiya University <br>- EX-intern at Kaaspro Enterprises<br>-  Passionate Full Stack Developer<br>- Teaching assistant @NxtWave<br>- Loves to code <br>- Passionate to learn AI/ML(learning)<br></h4>
 
 
 
